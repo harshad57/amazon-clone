@@ -1,4 +1,5 @@
-<h1>[Amazon Clone](https://amazonclone-harshad57.vercel.app)</h1>
+  live :- [amazon-clone.com](https://amazonclone-harshad57.vercel.app)
+  <h1>Amazon Clone</h1>
         <p>A responsive webpage built with HTML, CSS, and JavaScript.</p>
         <p>Features a mobile-friendly sidebar, scroll-to-top button, interactive product icons, and responsive layout for seamless navigation on various devices.</p>
     </header>
