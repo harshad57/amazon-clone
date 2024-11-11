@@ -4,7 +4,7 @@
         <p>Features a mobile-friendly sidebar, scroll-to-top button, interactive product icons, and responsive layout for seamless navigation on various devices.</p>
     </header>
     <section>
-        <h2>Key Features</h2>
+        <h2>Key Features :- </h2>
         <ul>
             <li><strong>Sidebar Navigation:</strong> Opens on mobile, displaying categories and features.</li>
             <li><strong>Scroll Button:</strong> Appears after scrolling 300px to enable quick top navigation.</li>
@@ -13,7 +13,7 @@
         </ul>
     </section>
     <section>
-        <h2>JavaScript Enhancements</h2>
+        <h2>JavaScript Enhancements :- </h2>
         <p>JavaScript handles sidebar toggling, scroll button, and icon interactions, enhancing usability.</p>
     </section>
 
