@@ -6,10 +6,10 @@
     <section>
         <h2>Key Features :- </h2>
         <ul>
-            <li><strong>Sidebar Navigation:</strong> Opens on mobile, displaying categories and features.</li>
-            <li><strong>Scroll Button:</strong> Appears after scrolling 300px to enable quick top navigation.</li>
-            <li><strong>Interactive Elements:</strong> Heart icons toggle to mark products as favorites.</li>
-            <li><strong>Responsive Design:</strong> Adapts to different screens, hiding and adjusting elements as needed.</li>
+            <li><strong>Sidebar Navigation : </strong> Opens on mobile, displaying categories and features.</li>
+            <li><strong>Scroll Button :</strong> Appears after scrolling 300px to enable quick top navigation.</li>
+            <li><strong>Interactive Elements :</strong> Heart icons toggle to mark products as favorites.</li>
+            <li><strong>Responsive Design :</strong> Adapts to different screens, hiding and adjusting elements as needed.</li>
         </ul>
     </section>
     <section>
