@@ -17,4 +17,4 @@
         <p>JavaScript handles sidebar toggling, scroll button, and icon interactions, enhancing usability.</p>
     </section>
 
-(check it out live) :- https://amazonclone-harshad57.vercel.app
+<p>(check it out live) :- https://amazonclone-harshad57.vercel.app</p>
