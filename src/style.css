@@ -224,7 +224,7 @@
     }
     
    #section .pop_pro{
-    backdrop-filter: blur(60px);
+    backdrop-filter: blur(20px);
     font-size:20px;
     font-weight:bold;
     color: black;
