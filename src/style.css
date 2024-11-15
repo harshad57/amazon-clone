@@ -225,11 +225,11 @@
     
    #section .pop_pro{
     background-color: transparent;
-    backdrop-filter:blur(300px);
     font-size:20px;
     font-weight:bold;
     color: black;
     padding: 0px 0px 25px;
+    position: relative;
     }
     
     #section .images{
