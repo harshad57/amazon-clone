@@ -11,22 +11,8 @@
          }
 
          ::-webkit-scrollbar{
-            background-color: #c1c1c1;
-            opacity: 0;
-         }
-
-         ::-webkit-scrollbar-button{
-display: none;   
-      }
-
-         ::-webkit-scrollbar-thumb{
-            background-color: #a3a3a3;
-            transition: 0.3s ease;
-         }
-
-         ::-webkit-scrollbar-thumb:hover{
-            background-color: #929292;
-         }
+        display: none;
+        }
 
         #container{
     font-family :rocknroll one; 
@@ -238,6 +224,7 @@ display: none;
     }
     
    #section .pop_pro{
+    background-color: transparent;
     backdrop-filter:blur(300px);
     font-size:20px;
     font-weight:bold;
@@ -307,7 +294,7 @@ display: none;
        }
      
      #aside .description{
-     width: 170px;
+     width: 260px;
      border:2px solid black;
          border-radius: 8px;
          }
@@ -363,6 +350,25 @@ display: none;
      }
      
      @media(min-width:800px){
+        ::-webkit-scrollbar{
+            display: block;
+            background-color: #c1c1c1;
+            opacity: 1;
+         }
+
+         ::-webkit-scrollbar-button{
+        display: none;   
+      }
+
+         ::-webkit-scrollbar-thumb{
+            background-color: #a3a3a3;
+            transition: 0.3s ease;
+         }
+
+         ::-webkit-scrollbar-thumb:hover{
+            background-color: #929292;
+         }
+
      #sidebar {
 display: block;
 width: 330px;          
