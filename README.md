@@ -1,5 +1,5 @@
   live :- [amazon-clone](https://amazonclone-harshad57.vercel.app)<br><br>
-<center><img width=300 src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg"/></center>
+![Amazon logo](https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg)
   <h1>Amazon Clone</h1>
         <p>A responsive webpage built with HTML, CSS, and JavaScript.</p>
         <p>Features a mobile-friendly sidebar, scroll-to-top button, interactive product icons, and responsive layout for seamless navigation on various devices.</p>
