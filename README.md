@@ -1,4 +1,4 @@
-![Amazon Logo](https://upload.wikimedia.org)
+![Amazon Logo](https://upload.wikimedia.org/wikipedia/commons/6/62/Amazon_logo.svg)
   live :- [amazon-clone](https://amazonclone-harshad57.vercel.app)
   <h1>Amazon Clone</h1>
         <p>A responsive webpage built with HTML, CSS, and JavaScript.</p>
