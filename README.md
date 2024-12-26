@@ -17,7 +17,7 @@
     </section>
     <section>
         <h2>JavaScript Enhancements :- </h2>
-        <p>[JavaScript](src/script.js) handles sidebar toggling, scroll button, and icon interactions, enhancing usability.</p>
+        <p>JavaScript handles sidebar toggling, scroll button, and icon interactions, enhancing usability.</p>
     </section>
 
 <p>check it out live :- https://amazonclone-harshad57.vercel.app</p>
