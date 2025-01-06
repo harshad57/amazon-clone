@@ -3,7 +3,7 @@
   <img width="300" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon Logo">
 </div>
   <h1>Amazon Clone</h1>
-        <p>A responsive webpage built with [HTML](index.html), [CSS](src/style.css), and [JavaScript](src/script.js).</p>
+        <p>A responsive webpage built with [HTML](index.html), [CSS](src/style.css), and JavaScript.</p>
         <p>Features a mobile-friendly sidebar, scroll-to-top button, interactive product icons, and responsive layout for seamless navigation on various devices.</p>
     </header>
     <section>
